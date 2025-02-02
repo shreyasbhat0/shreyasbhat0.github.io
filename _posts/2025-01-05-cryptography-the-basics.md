@@ -1,5 +1,5 @@
 ---
-title: "Cryptography: The Basics"
+title: "Cryptography: Invariants Over Untrusted Channels"
 date: 2025-01-05 10:00:00 +0530
 categories: [Cryptography, Security]
 tags: [cryptography, encryption, ciphers, invariants]

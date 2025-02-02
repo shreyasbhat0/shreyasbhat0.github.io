@@ -1,5 +1,5 @@
 ---
-title: "The One-Time Pad"
+title: "The One-Time Pad: Perfect Secrecy and Its Unforgiving Invariants"
 date: 2025-01-12 10:00:00 +0530
 categories: [Cryptography, Security]
 tags: [cryptography, one-time-pad, xor, perfect-secrecy, invariants]

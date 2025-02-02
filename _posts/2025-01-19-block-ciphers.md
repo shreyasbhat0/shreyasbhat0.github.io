@@ -1,5 +1,5 @@
 ---
-title: "Block Ciphers"
+title: "Block Ciphers: Trading Perfect Secrecy for Practical Invariants"
 date: 2025-01-19 10:00:00 +0530
 categories: [Cryptography, Security]
 tags: [cryptography, block-ciphers, des, aes, feistel-network, invariants]

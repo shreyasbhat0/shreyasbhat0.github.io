@@ -1,5 +1,5 @@
 ---
-title: "Block Ciphers: Modes of Operation"
+title: "Modes of Operation: Same Cipher, Different Invariants"
 date: 2025-02-02 10:00:00 +0530
 categories: [Cryptography, Security]
 tags: [cryptography, block-ciphers, ecb, cbc, ctr, modes-of-operation, invariants]

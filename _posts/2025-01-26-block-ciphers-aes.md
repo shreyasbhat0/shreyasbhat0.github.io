@@ -1,5 +1,5 @@
 ---
-title: "Block Ciphers: AES Internals"
+title: "AES Internals: Four Operations, Four Invariants"
 date: 2025-01-26 10:00:00 +0530
 categories: [Cryptography, Security]
 tags: [cryptography, aes, block-ciphers, substitution-permutation-network, invariants]
