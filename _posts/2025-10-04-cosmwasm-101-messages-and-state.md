@@ -6,7 +6,7 @@ tags: [cosmwasm, rust, smart-contracts, invariants, state-management]
 description: "Instantiate, Execute, Query — three message types, three classes of invariants. How CosmWasm contracts enforce valid state transitions through typed messages and ownership checks."
 ---
 
-In the [previous post](/posts/cosmwasm-101-the-entry-points/), we set up a CosmWasm contract with four entry points — each guarding a different invariant about how the outside world interacts with on-chain state. But those entry points were stubs. They accepted `Empty` messages and did nothing.
+In the [previous post](/posts/cosmwasm-101-the-entry-point/), we set up a CosmWasm contract with four entry points — each guarding a different invariant about how the outside world interacts with on-chain state. But those entry points were stubs. They accepted `Empty` messages and did nothing.
 
 This post fills them in. We define typed messages for instantiation, execution, and query. We implement state storage. We wire up the logic that transforms messages into state transitions. Along the way, every design decision maps to an invariant — a property that must hold true before, during, and after the operation.
 
