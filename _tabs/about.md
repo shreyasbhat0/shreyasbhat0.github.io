@@ -5,12 +5,17 @@ order: 4
 title: About
 ---
 
+<img src="/assets/image/image.png" 
+     alt="Shreyas K S" 
+     style="float: left; width: 140px; height: 140px; object-fit: cover; border-radius: 12px; margin-right: 25px; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+
 > **Invariant** *(noun)*: A property of a system that remains true regardless of the environment or the operations applied to it.
 
 I am **Shreyas K S**, a **Principal Engineer** and Systems Developer. This site is my documentation of the invariants I have found in software engineering.
 
 In a world of distributed chaos—network partitions, race conditions, and non-deterministic LLM outputs—our job is to create systems that hold their truth.
 
+<br style="clear: both;">
 ### Core Languages
 
 I build primarily with:
