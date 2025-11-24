@@ -6,19 +6,20 @@ title: About
 
 > **Invariant** *(noun)*: A property of a system that remains true regardless of the environment or the operations applied to it.
 
-<div style="clear: both; margin-top: 30px;">
-  <img src="/assets/image/image.png" 
-       alt="Shreyas K S" 
-       style="float: left; width: 150px; height: 150px; object-fit: cover; border-radius: 12px; margin-right: 25px; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-  
-  <div style="text-align: justify;">
-    <p>I am <strong>Shreyas K S</strong>, a <strong>Principal Engineer</strong> and Systems Developer. This site is my documentation of the invariants I have found in software engineering.</p>
-    
-    <p>In a world of distributed chaos—network partitions, race conditions, and non-deterministic LLM outputs—our job is to create systems that hold their truth.</p>
-  </div>
-</div>
-
-<div style="clear: both; margin-top: 30px;"></div>
+<table style="border: none; margin-top: 30px;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top; padding-right: 30px; width: 270px;">
+      <img src="/assets/image/image.png" 
+           alt="Shreyas K S" 
+           style="width: 240px; height: 240px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); display: block;">
+    </td>
+    <td style="border: none; vertical-align: top; text-align: justify;">
+      <p>I am <strong>Shreyas K S</strong>, a <strong>Principal Engineer</strong> and Systems Developer. This site is my documentation of the invariants I have found in software engineering.</p>
+      
+      <p>In a world of distributed chaos—network partitions, race conditions, and non-deterministic LLM outputs—our job is to create systems that hold their truth.</p>
+    </td>
+  </tr>
+</table>
 
 ### Core Languages
 
