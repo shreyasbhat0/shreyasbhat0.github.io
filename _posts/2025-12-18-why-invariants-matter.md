@@ -1,6 +1,6 @@
 ---
 title: "Why Invariants Matter"
-date: 2026-02-26 10:00:00 +0530
+date: 2025-12-18 10:00:00 +0530
 categories: [Systems, Engineering]
 tags: [invariants, rust, distributed-systems]
 description: "On the one principle that separates resilient systems from fragile ones."
