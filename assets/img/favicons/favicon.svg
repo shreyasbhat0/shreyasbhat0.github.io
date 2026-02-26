@@ -1,0 +1,25 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="112" fill="#0f0f13"/>
+
+  <!-- Tighter, more balanced composition — centered as a group -->
+
+  <!-- Left bracket [ — geometric L shape -->
+  <rect x="82" y="156" width="40" height="7" rx="3.5" fill="#6366f1"/>
+  <rect x="82" y="156" width="7" height="200" rx="3.5" fill="#6366f1"/>
+  <rect x="82" y="349" width="40" height="7" rx="3.5" fill="#6366f1"/>
+
+  <!-- ≡ Three bars — golden ratio spacing -->
+  <rect x="148" y="200" width="186" height="13" rx="6.5" fill="#606078"/>
+  <rect x="148" y="250" width="186" height="13" rx="6.5" fill="#e0e0e6"/>
+  <rect x="148" y="300" width="186" height="13" rx="6.5" fill="#606078"/>
+
+  <!-- Right bracket ] -->
+  <rect x="360" y="156" width="40" height="7" rx="3.5" fill="#6366f1"/>
+  <rect x="393" y="156" width="7" height="200" rx="3.5" fill="#6366f1"/>
+  <rect x="360" y="349" width="40" height="7" rx="3.5" fill="#6366f1"/>
+
+  <!-- Semicolon ; — proportional to the bars -->
+  <circle cx="430" cy="242" r="9" fill="#6366f1"/>
+  <ellipse cx="430" cy="278" rx="9" ry="9" fill="#6366f1"/>
+  <path d="M436 286 Q433 310 424 322" stroke="#6366f1" stroke-width="7" stroke-linecap="round" fill="none"/>
+</svg>
