@@ -9,6 +9,10 @@ on:
       - README.md
       - LICENSE
 
+  # Rebuild daily at midnight IST (18:30 UTC) to publish scheduled posts
+  schedule:
+    - cron: "30 18 * * *"
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
