@@ -1,6 +1,6 @@
 ---
 title: "Closures and Iterators: Zero-Cost Functional Invariants"
-date: 2026-03-25 10:00:00 +0530
+date: 2026-03-24 10:00:00 +0530
 categories: [Rust, Fundamentals]
 tags: [rust, closures, iterators, functional-programming, invariants]
 description: "Closures capture their environment under the same ownership rules as everything else in Rust. Iterators are lazy, composable, and compile down to the same code as hand-written loops. Functional style, systems performance."

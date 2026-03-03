@@ -1,6 +1,6 @@
 ---
 title: "Enums and Pattern Matching: The Exhaustiveness Invariant"
-date: 2026-03-04 10:00:00 +0530
+date: 2026-03-03 10:00:00 +0530
 categories: [Rust, Fundamentals]
 tags: [rust, enums, pattern-matching, match, option, invariants]
 description: "Enums let you define a type by listing its possible variants. match forces you to handle every single one. The compiler guarantees you never forget a case — and Option<T> guarantees you never forget about absence."

@@ -1,6 +1,6 @@
 ---
 title: "Generics: Write Once, Check Every Type"
-date: 2026-03-14 10:00:00 +0530
+date: 2026-03-12 10:00:00 +0530
 categories: [Rust, Fundamentals]
 tags: [rust, generics, type-parameters, monomorphization, invariants]
 description: "Generics let you write code that works for many types without sacrificing type safety or performance. The compiler generates specialized code for each concrete type — zero cost, full safety."

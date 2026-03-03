@@ -1,6 +1,6 @@
 ---
 title: "Traits: Behavioral Contracts the Compiler Enforces"
-date: 2026-03-11 10:00:00 +0530
+date: 2026-03-10 10:00:00 +0530
 categories: [Rust, Fundamentals]
 tags: [rust, traits, polymorphism, generics, invariants]
 description: "Traits define shared behavior across types — and the compiler guarantees every type that claims to implement a trait actually does. This is polymorphism with compile-time proof, not runtime hope."

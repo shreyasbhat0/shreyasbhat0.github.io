@@ -1,6 +1,6 @@
 ---
 title: "Error Handling: No Silent Failures"
-date: 2026-03-07 10:00:00 +0530
+date: 2026-03-05 10:00:00 +0530
 categories: [Rust, Fundamentals]
 tags: [rust, error-handling, result, option, panic, invariants]
 description: "Rust splits errors into two categories: unrecoverable (panic) and recoverable (Result). The compiler forces you to handle the recoverable ones. You cannot ignore a Result — the type system won't let you."

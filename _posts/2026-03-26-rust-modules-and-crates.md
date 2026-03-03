@@ -1,6 +1,6 @@
 ---
 title: "Modules and Crates: The Visibility Invariant"
-date: 2026-03-28 10:00:00 +0530
+date: 2026-03-26 10:00:00 +0530
 categories: [Rust, Fundamentals]
 tags: [rust, modules, crates, visibility, use, invariants]
 description: "Everything in Rust is private by default. Modules enforce encapsulation at the language level — internal implementation stays internal unless you explicitly expose it. This is how Rust makes invalid states unrepresentable from outside your API."

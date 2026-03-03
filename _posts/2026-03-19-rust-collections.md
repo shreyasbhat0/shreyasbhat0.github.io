@@ -1,6 +1,6 @@
 ---
 title: "Collections: Owned Data with Built-in Guarantees"
-date: 2026-03-21 10:00:00 +0530
+date: 2026-03-19 10:00:00 +0530
 categories: [Rust, Fundamentals]
 tags: [rust, collections, vec, hashmap, string, invariants]
 description: "Vec, String, and HashMap are the workhorses of Rust. Each one owns its data on the heap and enforces invariants the compiler alone can't — contiguous memory, valid UTF-8, unique keys."

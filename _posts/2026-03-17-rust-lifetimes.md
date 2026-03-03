@@ -1,6 +1,6 @@
 ---
 title: "Lifetimes: The Reference Validity Invariant"
-date: 2026-03-18 10:00:00 +0530
+date: 2026-03-17 10:00:00 +0530
 categories: [Rust, Fundamentals]
 tags: [rust, lifetimes, references, borrow-checker, invariants]
 description: "Lifetimes are the compiler's proof that every reference points to valid data. You don't control how long things live — you help the compiler verify that references never outlive what they point to."
